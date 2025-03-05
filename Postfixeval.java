@@ -77,11 +77,6 @@ class evalpostfix
     }
     public boolean isOperand(char ch) 
     {
-
-
-// TYPE YOUR CODE CODE
-
-
         if (ch >= '0' && ch <=
 '9')
 
@@ -102,11 +97,6 @@ class evalpostfix
 
 
     {
-
-
-// TYPE YOUR CODE CODE
-
-
         char po[] = postfix.toCharArray();
 
 
